@@ -1,0 +1,9 @@
+Camera URL : rtsp://admin:denmarkOPD8188@103.189.220.219:554/ISAPI/Streaming/Channels/501
+
+URL parameters
+
+username:admin
+password:denmarkOPD8188
+IP:103.189.220.219
+Port Number:554
+Channel Number:501,101(either of two can be there in the URL since we have two IP cameras
