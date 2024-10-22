@@ -6,4 +6,4 @@ username:admin
 password:denmarkOPD8188
 IP:103.189.220.219
 Port Number:554
-Channel Number:501,101(either of two can be there in the URL since we have two IP cameras
+Channel Number:501,101(either of two can be there in the URL since we have two IP cameras)
